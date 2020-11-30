@@ -24,5 +24,9 @@ public class AccountController {
         return mv;
     }
 
+    public void test01() {
+        System.out.println("aaaaa");
+    }
+
 
 }
