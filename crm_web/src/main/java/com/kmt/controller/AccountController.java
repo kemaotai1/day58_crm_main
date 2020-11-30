@@ -28,5 +28,9 @@ public class AccountController {
         System.out.println("aaaaa");
     }
 
+    public void test02() {
+        System.out.println("bbbbbbbb");
+    }
+
 
 }
