@@ -32,5 +32,8 @@ public class AccountController {
         System.out.println("bbbbbbbb");
     }
 
+    public void test03() {
+        System.out.println("ccccccccc");
+    }
 
 }
