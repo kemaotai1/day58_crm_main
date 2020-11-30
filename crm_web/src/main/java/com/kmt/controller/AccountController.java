@@ -36,4 +36,7 @@ public class AccountController {
         System.out.println("ccccccccc");
     }
 
+    public void test04() {
+        System.out.println("dddd");
+    }
 }
